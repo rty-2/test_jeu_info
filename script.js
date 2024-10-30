@@ -15,7 +15,7 @@ carte1.onclick = function() {
 let carte2 = new Image()
 carte2.src = "https://renardeau.ch/cours/img/cartej/dosr.png"
 plateau.appendChild(carte2)        
-carte.onclick = function() {
+carte2.onclick = function() {
   alert("Tu as cliqué !!!")          
 }
 
@@ -23,6 +23,6 @@ carte.onclick = function() {
 let carte3 = new Image()
 carte3.src = "https://renardeau.ch/cours/img/cartej/dosr.png"
 plateau.appendChild(carte3)        
-carte.onclick = function() {
+carte3.onclick = function() {
   alert("Tu as cliqué !!!")          
 }
