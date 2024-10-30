@@ -7,7 +7,7 @@ document.body.appendChild(plateau)
 let carte1 = new Image()
 carte1.src = "https://renardeau.ch/cours/img/cartej/dosr.png"
 plateau.appendChild(carte1)        
-carte.onclick = function() {
+carte1.onclick = function() {
   alert("Tu as cliqué !!!")          
 }
 
