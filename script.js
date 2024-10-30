@@ -5,7 +5,7 @@ document.body.appendChild(plateau)
 
 // On crée une carte de dame de coeur
 let carte1 = new Image()
-carte1.src = "https://renardeau.ch/cours/img/cartej/25.png"
+carte1.src = "https://renardeau.ch/cours/img/cartej/dosr.png"
 plateau.appendChild(carte1)        
 carte.onclick = function() {
   alert("Tu as cliqué !!!")          
