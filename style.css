@@ -1,1 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.tapis {
+  width: 400px;
+  height: 400px;
+  background-color: #6BBCBE;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
 
