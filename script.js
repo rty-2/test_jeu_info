@@ -13,7 +13,7 @@ carte.onclick = function() {
 
 // On crée une carte de dame de coeur
 let carte2 = new Image()
-carte2.src = "https://renardeau.ch/cours/img/cartej/36.png"
+carte2.src = "https://renardeau.ch/cours/img/cartej/dosr.png"
 plateau.appendChild(carte2)        
 carte.onclick = function() {
   alert("Tu as cliqué !!!")          
